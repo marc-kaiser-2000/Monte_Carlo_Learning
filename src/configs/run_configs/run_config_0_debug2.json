@@ -1,0 +1,16 @@
+{
+    "model_type" : "multi_level", 
+    "max_level" : 3,
+    "sample_size_test" : 0,
+    "sample_size_valid" : 0,
+    "batch_size_test" : 0,
+    "batch_size_valid" : 0, 
+    "gen_data" : 4,
+    "optimizer" : 0,
+    "learning_rate" : 1,
+    "loss_and_grad" : 0,
+    "model_topology" : 0,
+    "asset_correlation" : 0,
+    "dynamics" : 0
+    
+}

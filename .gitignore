@@ -1,0 +1,17 @@
+# Application specifics
+*.pyc
+.vscode/
+
+# Generated outputs
+outdir/
+*.log
+*.dat
+*.pdf
+
+
+# Exclude test files used for sample code
+test[0-9].py
+
+#TMP
+model_objs/
+model_2_objs/
