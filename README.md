@@ -1,4 +1,4 @@
-# Deep_ML_Learning
+# Monte_Carlo_Learning
 
 This software was designed and implemented during the developers matster's thesis at the Frankfurt University of Applied Sciences.
 An Nvidia A100-SXM40-80GB GPU was provided for development purposes during the thesis.
@@ -100,7 +100,7 @@ How can this framework be enhanced to enable individual experiment configuration
 
 In the source 'configs/runconfigs' exists a JSON file for each experiment.
 Given the file 'run_config_0_debug.json' , where '0' is the experiment repretition and 'debug' the experiment name.
-Increasing the repetition and keepting the same name (run_config_1_debug.json) enables the usage of transfer learning.
+Increasing the repetition and keeping the same name (run_config_1_debug.json) enables the usage of transfer learning.
 
 ```json
     {
