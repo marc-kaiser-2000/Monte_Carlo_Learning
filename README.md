@@ -23,7 +23,7 @@ Provided features are:
 
 Clone the repository:
 
-    https://github.com/simon-research/Deep_ML_Learning.git
+    https://github.com/marc-kaiser-2000/Monte_Carlo_Learning.git
 
 
 Install Python version 3.10.12 or create a virual environment with this version.
